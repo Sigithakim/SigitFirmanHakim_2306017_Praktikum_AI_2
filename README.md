@@ -1,4 +1,5 @@
 Implementasi Algoritma Pencarian dalam Python
+
 Repositori ini berisi berbagai implementasi algoritma pencarian yang digunakan untuk menemukan solusi atau jalur dalam suatu ruang pencarian. Algoritma yang diimplementasikan mencakup metode uninformed search (tanpa informasi) dan informed search (berbasis informasi).
 
 🔹 Uninformed Search (Pencarian Tanpa Informasi)
