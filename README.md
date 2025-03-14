@@ -6,4 +6,5 @@ Repositori ini berisi berbagai implementasi algoritma pencarian yang digunakan u
 Depth First Search (DFS) – Menelusuri simpul secara mendalam sebelum kembali ke jalur lain.
 Breadth First Search (BFS) – Mengeksplorasi simpul secara mendatar, dengan mendahulukan tetangga sebelum berpindah ke tingkat berikutnya.
 Uniform Cost Search (UCS) – Memilih jalur dengan biaya terendah untuk dieksplorasi terlebih dahulu.
+
 Repositori ini cocok bagi siapa saja yang ingin memahami konsep dasar algoritma pencarian serta bagaimana cara mengimplementasikannya dalam Python. Selamat belajar dan bereksplorasi! 🚀
